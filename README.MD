@@ -2,7 +2,7 @@
 
 ### The Future of Timekeeping. Now.
 
-![Terminal screenshot of Balls Stopwatch in action](https://i.imgur.com/your-screenshot-link-here.png)
+![Terminal screenshot of Balls Stopwatch in action](screen.png)
 *(Note: Replace the image link above with a screenshot of your stopwatch in action)*
 
 Welcome, fellow digital pioneer. You are now standing on the precipice of a timekeeping revolution. You have stumbled upon the source code for the **Balls Stopwatch - Proprietary Unreleased Version**. This is not a toy. This is not an app. This is an experience.
